@@ -13,7 +13,7 @@ Members (in alphabetical order):
 
 # Requirements
 * Python 3.10
-* Install the requirements found in `requirements.txt` (for Windows/Linux) or `requirements-macos.txt` (for MacOS) using `python3 -m pip install -r <appopriate_requirements_file>.txt`
+* Install the requirements found in `requirements.txt` (for Windows/Ubuntu) or `requirements-macos.txt` (for MacOS) using `python3 -m pip install -r <appopriate_requirements_file>.txt`
 
 # Report
 Work in progress.
