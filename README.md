@@ -11,11 +11,12 @@ Members (in alphabetical order):
 6. Wang Wen Kai Daniel
 7. Wilson Widyadhana
 
-# Running the notebooks
-This project was mainly developed using Python 3.10. To run the notebooks, please use/create a virtual environment before installing the requirements found in `requirements.txt` with `python3 -m pip install -r requirements.txt`.
+# Requirements
+* Python 3.10
+* Install the requirements found in `requirements.txt` (for Windows/Linux) or `requirements-macos.txt` (for MacOS) using `python3 -m pip install -r <appopriate_requirements_file>.txt`
 
 # Report
-WIP
+Work in progress.
 
 # References
 Please find the references we have used [here](references.md).
