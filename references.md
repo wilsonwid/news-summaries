@@ -12,3 +12,5 @@ Below are the resources that we have used to create this project:
 5. [GRUBERT](https://github.com/ZuowenWang0000/GRUBERT-A-GRU-Based-Method-to-Fuse-BERT-Hidden-Layers-for-Twitter-sentiment-analysis)
 6. [BERT2BERT](https://colab.research.google.com/drive/1WIk2bxglElfZewOHboPFNj8H44_VAyKE?usp=sharing#scrollTo=8lWokpytzKNk)
 7. [Seq2seq Trainer](https://huggingface.co/course/chapter7/5?fw=pt#preprocessing-the-data)
+8. [Leveraging Pre-trained Checkpoints for Encoder-Decoder Models](https://colab.research.google.com/drive/1WIk2bxglElfZewOHboPFNj8H44_VAyKE?usp=sharing#scrollTo=JD2jv3GkyjR-)
+9. [Fine-tuning a pre-trained model](https://huggingface.co/docs/transformers/training)
