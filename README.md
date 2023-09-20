@@ -1,5 +1,5 @@
 # news-summaries
-News summarisation with transformers. A project of NUS FinTech Society.
+News summarisation with the BART and T5 transformer models. A project of NUS FinTech Society.
 
 Members (in alphabetical order):
 
@@ -11,12 +11,9 @@ Members (in alphabetical order):
 6. Wang Wen Kai Daniel
 7. Wilson Widyadhana
 
-# Requirements
+## Requirements
 * Python 3.10
 * Install the requirements found in `requirements.txt` (for Windows/Ubuntu) or `requirements-macos.txt` (for MacOS) using `python3 -m pip install -r <appopriate_requirements_file>.txt`
 
-# Report
-Work in progress.
-
-# References
-Please find the references we have used [here](references.md).
+## Report
+Please find the report under `report/`.
